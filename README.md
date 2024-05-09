@@ -10,6 +10,9 @@ chmod a+x kustomize_kustomize.v3.2.3_linux_amd64 && \
 sudo mv kustomize_kustomize.v3.2.3_linux_amd64 /usr/local/bin/kustomize
 kustomize version
 ```
+## Links
+https://blog.devops.dev/devops-project-ideas-with-solutions-intermediate-level-705bb7e6989c
+
 # Building a simple Voting App using Kustomize and Kubernetes 🚀
 
 This repository contains the **resource Manifests for a simple Voting App** that is built using Kustomize and Kubernetes. This Voting App is a simple web application that allows users to **Vote for their favorite pets**. 
